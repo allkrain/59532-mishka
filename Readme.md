@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Алла Крайнова](https://up.htmlacademy.ru/adaptive/10/user/59532).
-* Наставник: `Неизвестно`.
+* Наставник: keks.
 
 ---
 
